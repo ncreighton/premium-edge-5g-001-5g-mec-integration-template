@@ -1,0 +1,2 @@
+# premium-edge-5g-001-5g-mec-integration-template
+You're drowning in fragmented MEC architecture docs, spreadsheets, and diagrams scattered across tools. The 5G MEC Integration Template gives you one unified Notion workspace to map, track, and optimize your entire edge-computing deployment.  Stop rebuilding MEC integration documentation from scratch. This template transforms how edge architects an
